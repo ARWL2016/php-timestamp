@@ -1,5 +1,5 @@
 body {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-family: 'Raleway', sans-serif;
     color: #333; 
     margin: 30px; 
     padding: 10px; 
@@ -10,7 +10,7 @@ div {
     max-width: 600px; 
 }
 
-#input {
+input {
     height: 30px; 
     width: 300px; 
     padding-left: 10px; 
@@ -19,7 +19,13 @@ div {
     margin-right: 10px; 
 }
 
-#submit {
+.submit-btn {
     height: 35px; 
     width: 150px; 
+}
+
+.error-msg {
+    background-color:#FFDB58;
+    padding: 5px;
+    font-size: 0.9em;
 }
