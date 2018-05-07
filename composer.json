@@ -1,0 +1,10 @@
+{
+    "name": "alistair/php-timestamp",
+    "authors": [
+        {
+            "name": "Alistair Willis",
+            "email": "alistairrwillis@gmail.com"
+        }
+    ],
+    "require": {}
+}
